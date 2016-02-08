@@ -35,7 +35,7 @@
 		 <cfscript>
 			//set your app vars for the application          
 			application.dsn = "CDMG";
-			application.title = "eFiscal Networks, LLC.";
+			application.title = "Customer Relationship Manager";
 			application.bootver = "v 2.3.1";
 			application.softver = "v 3.0.1";
 			application.root = "index.cfm";

@@ -5,7 +5,7 @@
 	
 	<!--- Setup the application --->
 	<cfscript>
-       this.name = "efiscal3";
+       this.name = "CRM_3";
        this.applicationTimeout = createTimeSpan(0,2,0,0);
        this.clientmanagement= "yes";
        this.loginstorage = "session" ;

@@ -11,7 +11,7 @@
 					<div class="row">
 						<cfoutput>
 						<div class="span6">
-							&copy; #Year(Now())# <a href="https://efiscal.net" target="_blank">eFiscal Networks, LLC.</a>, All Rights Reserved.
+							&copy; #Year(Now())# <a href="#" target="_blank">Craig Derington, Inc.</a>, All Rights Reserved.
 						</div> <!-- /span6 -->
 						
 						<div id="builtby" class="span6">
